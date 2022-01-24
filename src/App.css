@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+ h1{
+   text-align: center;
+   background-color: rgb(99, 106, 212);
+   color: white;
+   margin-left: 60px;
+   margin-right: 60px;
+ }
+ h2{
+   margin-top: 10px;
+ text-align: center;
+  justify-content: center;
+  background-color: rgb(34, 230, 34);
+ }
+ form1{
+   display: flex;
+ }
+ #head{
+   background-color:olive;
+ }
